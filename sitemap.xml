@@ -132,5 +132,23 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://jnanayatra.site/the-multiverse-theory.html</loc>
+    <lastmod>2025-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jnanayatra.site/anatta-not-self.html</loc>
+    <lastmod>2025-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jnanayatra.site/did-buddha-reject-caste-system-god-and-vedas.html</loc>
+    <lastmod>2025-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
   <!-- Add more URLs as needed -->
 </urlset>
