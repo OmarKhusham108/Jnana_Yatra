@@ -150,5 +150,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://jnanayatra.site/advaita-non-duality-and-the-holographic-universe.html</loc>
+    <lastmod>2025-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
   <!-- Add more URLs as needed -->
 </urlset>
