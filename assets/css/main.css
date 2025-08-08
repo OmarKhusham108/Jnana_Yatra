@@ -991,7 +991,7 @@ section.special, article.special {
 
 header p {
   font-family: "Roboto Slab", serif;
-  font-size: 1em;
+  font-size: 1.5em;
   font-weight: 400;
   letter-spacing: 0.075em;
   margin-top: -0.5em;
@@ -1998,7 +1998,12 @@ button,
       width: inherit; }
   #sidebar.inactive {
     margin-left: -26em; }
-  @media screen and (max-width: 1680px) {
+    @media screen and (max-width: 736px) {
+      #sidebar {
+        margin-top: 3em; /* Pushes sidebar down by 3em on mobile */
+      }
+    }
+    @media screen and (max-width: 1680px) {
     #sidebar {
       width: 24em; }
       #sidebar > .inner {
