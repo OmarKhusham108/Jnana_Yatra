@@ -156,5 +156,17 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://jnanayatra.site/index.html</loc>
+    <lastmod>2025-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jnanayatra.site/spanda-and-quantum-fluctuations.html</loc>
+    <lastmod>2025-07-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
   <!-- Add more URLs as needed -->
 </urlset>
